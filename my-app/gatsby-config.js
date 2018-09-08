@@ -3,7 +3,7 @@ module.exports = {
     title: ' ',
     description: ' ',
     keywords: ' ',
-    pathPrefix: `/learnReact`,
+    pathPrefix: '/learnReact',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
