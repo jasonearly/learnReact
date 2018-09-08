@@ -1,6 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Design+Code Default Starter',
+    title: ' ',
+    description: ' ',
+    keywords: ' ',
+    pathPrefix: `/learnReact`,
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
