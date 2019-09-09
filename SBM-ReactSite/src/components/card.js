@@ -34,9 +34,9 @@ const CardCopy = styled.p`
 color: rgba(255,255,255, 0.8);
 text-transform: uppercase;
 font-weight: 600;
-font-size: 18px;
+font-size: 17px;
 align-self: end;
-margin: 0 0 20px 20px;
+margin: 20px;
 `
 
 const CardImg = styled.img`

@@ -57,4 +57,10 @@
     background: rgba(0,0,0, 0.8);
     padding: 15px 0;
     backdrop-filter: blur(20px);
+    height: 5px;
+
+    img{
+      width: 1px;
+        transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1.0);
+    }
 }
